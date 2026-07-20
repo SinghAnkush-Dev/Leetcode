@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
