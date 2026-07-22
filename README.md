@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0217-contains-duplicate) |
+| [0494-target-sum](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0494-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SinghAnkush-Dev/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
